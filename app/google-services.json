@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "251062327451",
+    "firebase_url": "https://projekkereta.firebaseio.com",
+    "project_id": "projekkereta",
+    "storage_bucket": "projekkereta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251062327451:android:900a4db016168633600e3e",
+        "android_client_info": {
+          "package_name": "com.project.gemastik.projekkereta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251062327451-ov1f02s42rgodneppjo455h29fo8m4mt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGLCQixLRRsXBYafAEkf6U385rKESiIyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251062327451-ov1f02s42rgodneppjo455h29fo8m4mt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
